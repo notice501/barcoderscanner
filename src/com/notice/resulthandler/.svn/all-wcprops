@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/resulthandler
+END
+SMSResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/resulthandler/SMSResultHandler.java
+END
+ResultButtonListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/resulthandler/ResultButtonListener.java
+END
+TelResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/resulthandler/TelResultHandler.java
+END
+TextResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/resulthandler/TextResultHandler.java
+END
+ResultHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/resulthandler/ResultHandlerFactory.java
+END
+CalendarResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/resulthandler/CalendarResultHandler.java
+END
+GeoResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/resulthandler/GeoResultHandler.java
+END
+ISBNResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8/trunk/gradurate-barcode/src/com/notice/resulthandler/ISBNResultHandler.java
+END
+EmailAddressResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/resulthandler/EmailAddressResultHandler.java
+END
+ResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/trunk/gradurate-barcode/src/com/notice/resulthandler/ResultHandler.java
+END
+URIResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/resulthandler/URIResultHandler.java
+END
+AddressBookResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/resulthandler/AddressBookResultHandler.java
+END
+ProductResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8/trunk/gradurate-barcode/src/com/notice/resulthandler/ProductResultHandler.java
+END

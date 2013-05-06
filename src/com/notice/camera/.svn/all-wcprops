@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/camera
+END
+CameraManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/camera/CameraManager.java
+END
+AutoFocusCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/camera/AutoFocusCallback.java
+END
+CameraConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/camera/CameraConfigurationManager.java
+END
+PreviewCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/camera/PreviewCallback.java
+END

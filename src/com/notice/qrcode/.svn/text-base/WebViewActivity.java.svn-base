@@ -1,0 +1,34 @@
+package com.notice.qrcode;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.webkit.WebView;
+
+public class WebViewActivity extends Activity{
+	private WebView wv;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.webbuy);
+		
+		wv = (WebView) findViewById(R.id.wv);
+		Intent intent = getIntent();
+		String type = intent.getStringExtra("type");
+		String value = intent.getStringExtra("value");
+		if(type.equals("dang")){
+			wv.loadUrl("http://m.dangdang.com/gw_search.php?key=" + value);
+		}
+		else if(type.equals("360")) {
+			wv.loadUrl("http://m.360buy.com/ware/search.action?keyword=" + value);
+		}
+		else if(type.equals("taobao")){
+			wv.loadUrl("http://s.m.taobao.com/search.htm?q=" + value);
+		}
+		else {
+			wv.loadUrl("http://s.m.etao.com/auctions.htm?q=" + value);
+		}
+	}
+
+}

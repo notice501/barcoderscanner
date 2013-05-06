@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/gradurate-barcode/src/com/notice/qrcode
+END
+BeepManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/BeepManager.java
+END
+DecodeThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/DecodeThread.java
+END
+CaptureActivityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/CaptureActivityHandler.java
+END
+PreferencesActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/PreferencesActivity.java
+END
+HttpHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/HttpHelper.java
+END
+CaptureActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8/trunk/gradurate-barcode/src/com/notice/qrcode/CaptureActivity.java
+END
+DecodeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/trunk/gradurate-barcode/src/com/notice/qrcode/DecodeHandler.java
+END
+IntentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/IntentSource.java
+END
+InactivityTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/InactivityTimer.java
+END
+Intents.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/Intents.java
+END
+WebViewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8/trunk/gradurate-barcode/src/com/notice/qrcode/WebViewActivity.java
+END
+FinishListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/FinishListener.java
+END
+DecodeFormatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/DecodeFormatManager.java
+END
+ViewfinderResultPointCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/ViewfinderResultPointCallback.java
+END
+LocaleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/LocaleManager.java
+END
+Contents.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/Contents.java
+END
+ViewfinderView.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/ViewfinderView.java
+END
+PlanarYUVLuminanceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7/trunk/gradurate-barcode/src/com/notice/qrcode/PlanarYUVLuminanceSource.java
+END

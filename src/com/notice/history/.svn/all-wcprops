@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8/trunk/gradurate-barcode/src/com/notice/history
+END
+HistoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8/trunk/gradurate-barcode/src/com/notice/history/HistoryItem.java
+END
+HistoryItemAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8/trunk/gradurate-barcode/src/com/notice/history/HistoryItemAdapter.java
+END
+DBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8/trunk/gradurate-barcode/src/com/notice/history/DBHelper.java
+END
+HistoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8/trunk/gradurate-barcode/src/com/notice/history/HistoryManager.java
+END
+HistoryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8/trunk/gradurate-barcode/src/com/notice/history/HistoryActivity.java
+END
